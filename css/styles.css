@@ -1,0 +1,51 @@
+
+body {
+
+
+  background-color: #f9ed69;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #f08a5d;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  text-shadow: 5px 5px 1px black;
+}
+
+
+
+.job {
+  color: black;
+  font-size: 20px;
+}
+
+.personalDescription {
+  color: black;
+}
+
+h3 {
+  color: #b83b5e;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h3:hover {
+  color: white;
+}
+
+p, ul, table {
+  color: #6a2c70;
+  font-family: 'Alegreya SC', serif;
+}
+
+#contactInfo:hover {
+  color: red;
+
+}
